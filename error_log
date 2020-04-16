@@ -1,0 +1,8 @@
+[16-Apr-2020 12:40:59 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ']' in /home/u495676896/domains/sistemasonline.inf.br/public_html/postali/Controllers/Tabela.php on line 23
+[16-Apr-2020 16:38:21 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u495676896/domains/sistemasonline.inf.br/public_html/postali/Controllers/Tabela.php on line 47
+[16-Apr-2020 16:39:09 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/u495676896/domains/sistemasonline.inf.br/public_html/postali/Controllers/Tabela.php on line 47
+[16-Apr-2020 16:51:07 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/u495676896/domains/sistemasonline.inf.br/public_html/postali/Controllers/Tabela.php on line 51
+[16-Apr-2020 16:51:11 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/u495676896/domains/sistemasonline.inf.br/public_html/postali/Controllers/Tabela.php on line 51
+[16-Apr-2020 17:37:21 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ')' in /home/u495676896/domains/sistemasonline.inf.br/public_html/postali/Controllers/Tabela.php on line 27
+[16-Apr-2020 17:38:02 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ')' in /home/u495676896/domains/sistemasonline.inf.br/public_html/postali/Controllers/Tabela.php on line 27
+[16-Apr-2020 17:38:06 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ')' in /home/u495676896/domains/sistemasonline.inf.br/public_html/postali/Controllers/Tabela.php on line 27
